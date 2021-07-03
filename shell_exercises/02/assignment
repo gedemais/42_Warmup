@@ -1,0 +1,27 @@
+------------- Exercice 02 -------------
+
+Show me your pass
+
+The goal of this exercise is to learn about files permissions in UNIX filesystems.
+
+Vocabulary needed:
+- Permissions
+- Owner
+- User
+- Group
+
+You will have to turn in several files with different permissions into a folder
+named 'permissions/' :
+- The first file must be named 'hello_world' and allows for user to read and write it.
+- The second file must be named 'ushallnotpass' and allow nothing for nobody.
+- The third file must be named 'openbar' and allows for user, group, and others to read, write, and execute it.
+- The fourth file must be named 'classic' and allows for user to read, write, and execute it.
+  It also allows group to read and write it, and allows others to read it only.
+
+You will also have to redirect the output of this command :
+
+ls -l permissions/
+
+Into a file named 'result', located in the permissions/ directory.
+
+Remember, stay calm, and RTFM.

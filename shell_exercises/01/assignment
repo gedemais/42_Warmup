@@ -1,0 +1,40 @@
+------------- Exercice 01 -------------
+
+Your first tree
+
+The goal of this first exercise is to familiarize with the basics commands and
+usages of a UNIX shell interpretor.
+
+Vocabulary needed:
+- Filesystem
+- Directory structure
+- Shell
+- Shell commands
+- Terminal
+- Terminal emulator
+
+You will have to turn in a file named gen.sh, containing an UNIX shell commands.
+Theses commands must create a folder tree. The entry point of this tree must be a
+folder named 'folder', so that this command :
+
+ls -Ra folder/
+
+Executed in the current folder (01), displays this result:
+------------------------------------------------------------
+ $> ls -Ra folder/
+.        ..       .git     Makefile include  libft    src
+
+folder/.git:
+.       ..      example
+
+folder/include:
+.      ..     main.h
+
+folder/libft:
+.       ..      libft.a
+
+folder/src:
+.      ..     main.c
+------------------------------------------------------------
+
+Remember, stay calm, and RTFM.

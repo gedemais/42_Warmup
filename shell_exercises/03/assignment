@@ -1,0 +1,26 @@
+------------- Exercice 03 -------------
+
+Your first pipe
+
+The goal of this first exercise is to practice with pipes in UNIX shells,
+as it is an very important aspect of pipelines management in UNIX systems.
+
+Vocabulary needed:
+- Pipe
+- Newline
+
+You will have to turn in a file named count.sh, containing a command that
+will count the number of files and folders in the current directory like
+in this example :
+
+--------------------------------------------
+
+$> ls
+Makefile       README.md      ft_print.o     jdlv           qs
+Neural_Network ft.o           include        main.o         srcs
+$> sh count.sh
+10
+
+--------------------------------------------
+
+Remember, stay calm, and RTFM.
