@@ -51,7 +51,7 @@ The piscine system has evolved a bit through the years, but there are precisions
   After all of your corrections (multiple corrections are needed to validate each projects), you will automatically be corrected by the "Moulinette".
   The Moulinette is a testing program used to check that your work is okay.
   Spoiler alert : Most of the time in 42 spirit, 19.999999999999 / 20 is equivalent to 0 / 20, meaning that most of errors will cause your project to get rated at 0.
-  Meaning you will have to fix any problem in your project, then correct 3 - 5 persons to get corrected 3 - 5 times by piscineux, then pray again the Moulinette.
+  Meaning you will have to fix any problem in your project, then correct 2 persons to get corrected 2 times by piscineux, then pray again the Moulinette.
   
 - A piscine has differents exercises to train / test you :
   - "Days", which are exercises assignments sheets, that you have to complete as fast as you can during the piscine.
